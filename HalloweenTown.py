@@ -1,6 +1,7 @@
 # Halloween Town Text Adventure Game
 # By: Thomas Fiske
 # IT - 140 SNHU
+# Date: 10/17/2021
 
 # Dictionary
 streets = {
